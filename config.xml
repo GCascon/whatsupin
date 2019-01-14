@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.h4ckademy.maps" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>WhatsUpIn</name>
+    <description>
+        Una aplicación simple de PhoneGap que usa geolocalización y mapas de Leaflet
+    </description>
+    <author email="gcascon@gmail.com" mailto="gcascon@gmail.com">
+        gcascon
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <access origin="tel:*" launch-external="yes" /> 
+    <access origin="geo:*" launch-external="yes" />
+</widget>
